@@ -1,7 +1,6 @@
-package se.fk.rimfrost.framework.yrkanderoll.adapter.dto;
+package se.fk.rimfrost.framework.yrkanderoll.model;
 
 import org.immutables.value.Value;
-
 import java.util.UUID;
 
 @Value.Immutable

@@ -9,7 +9,7 @@ import org.eclipse.microprofile.config.inject.ConfigProperty;
 import org.glassfish.jersey.apache.connector.ApacheConnectorProvider;
 import org.glassfish.jersey.client.ClientConfig;
 import org.glassfish.jersey.client.proxy.WebResourceFactory;
-import se.fk.rimfrost.framework.yrkanderoll.adapter.dto.Yrkanderoll;
+import se.fk.rimfrost.framework.yrkanderoll.model.Yrkanderoll;
 import se.fk.rimfrost.jaxrsspec.controllers.generatedsource.YrkanderollControllerApi;
 import java.util.UUID;
 
