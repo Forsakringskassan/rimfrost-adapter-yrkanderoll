@@ -1,0 +1,1 @@
+# rimfrost-framework-yrkanderoll-adapter
